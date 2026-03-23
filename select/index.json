@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Progress",
+  "base_artist": "スガ シカオ",
+  "createdAt": "2026-03-23T11:29:49.680463Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Progress Again",
+      "artist": "Kelsey Waldon",
+      "has_synced": true,
+      "path": "select/01_Progress_Again_Kelsey_Waldon.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Progress",
+      "artist": "Orchestral Manoeuvres In the Dark",
+      "has_synced": false,
+      "path": "select/02_Progress_Orchestral_Manoeuvres_In_the_Dark.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Make It Mine (Progress 1 Vox)",
+      "artist": "The Shamen",
+      "has_synced": false,
+      "path": "select/03_Make_It_Mine_(Progress_1_Vox)_The_Shamen.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "City In Progress",
+      "artist": "Broadcast",
+      "has_synced": true,
+      "path": "select/04_City_In_Progress_Broadcast.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Making Progress",
+      "artist": "Blackalicious",
+      "has_synced": false,
+      "path": "select/05_Making_Progress_Blackalicious.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Making Progress",
+      "artist": "Electric Six",
+      "has_synced": true,
+      "path": "select/06_Making_Progress_Electric_Six.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Progress",
+      "artist": "Mavado",
+      "has_synced": true,
+      "path": "select/07_Progress_Mavado.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Progress",
+      "artist": "Mavado",
+      "has_synced": true,
+      "path": "select/08_Progress_Mavado.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Progress",
+      "artist": "MUTEMATH",
+      "has_synced": true,
+      "path": "select/09_Progress_MUTEMATH.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "All in One Day - Work in Progress Mix",
+      "artist": "Ultravox",
+      "has_synced": false,
+      "path": "select/10_All_in_One_Day_-_Work_in_Progress_Mix_Ultravox.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Lament (Work in Progress Mix)",
+      "artist": "Ultravox",
+      "has_synced": false,
+      "path": "select/11_Lament_(Work_in_Progress_Mix)_Ultravox.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Progress",
+      "artist": "Sparks",
+      "has_synced": false,
+      "path": "select/12_Progress_Sparks.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Progress (Vocal Extended Club Mix) (Remastered)",
+      "artist": "Sparks",
+      "has_synced": false,
+      "path": "select/13_Progress_(Vocal_Extended_Club_Mix)_(Remastered)_Sparks.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Go Progress Chrome",
+      "artist": "Grandaddy",
+      "has_synced": true,
+      "path": "select/14_Go_Progress_Chrome_Grandaddy.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Fake Sound of Progress",
+      "artist": "Lostprophets",
+      "has_synced": true,
+      "path": "select/15_The_Fake_Sound_of_Progress_Lostprophets.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "progress",
+      "artist": "スガ シカオ",
+      "has_synced": false,
+      "path": "select/pl_01_progress_スガ_シカオ.txt"
+    }
+  ]
+}
